@@ -1,3 +1,6 @@
+
+<img width="512" height="256" alt="pytorch_logo_icon_169823" align="center" src="https://github.com/user-attachments/assets/f9260ec0-674a-447d-b8e8-ea8e5d50e844" />
+
 # Building a CNN Architecture for classification of images
 
 `Data set`:https://www.kaggle.com/datasets/andrewmvd/animal-faces
