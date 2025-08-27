@@ -1,5 +1,6 @@
 
-<img width="512" height="256" alt="pytorch_logo_icon_169823" align="center" src="https://github.com/user-attachments/assets/f9260ec0-674a-447d-b8e8-ea8e5d50e844" />
+<img width="400" height="158" alt="PyTorch_logo_white svg" src="https://github.com/user-attachments/assets/e8777af5-7ca6-414d-a678-751f722e5375" />
+
 
 # Building a CNN Architecture for classification of images
 
